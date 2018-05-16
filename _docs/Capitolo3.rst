@@ -30,7 +30,7 @@ elettronico, ivi inclusi, per i micro-pagamenti, quelli basati sull'uso
 del credito telefonico […]*\ ».
 
 Tale piattaforma è quella meglio conosciuta come Nodo dei Pagamenti-SPC
-e/o Sistema pagoPA (si veda il successivo paragrafo 8.3).
+e/o Sistema pagoPA (:ref:`si veda il successivo paragrafo 8.3 <piattaforma-tecnologica-per-linterconnessione>`).
 
 Le Linee guida perseguono l’obiettivo del legislatore di cogliere le
 opportunità offerte dalle nuove tecnologie per facilitare le relazioni
