@@ -25,7 +25,7 @@ dal pagatore o dal soggetto versante sono inesatti.
 
 Gli stessi non sono altresì responsabili della mancata esecuzione o
 dell’esecuzione inesatta del pagamento se i codici identificativi del
-versamento di cui al capitolo 7, forniti dal pagatore o dal soggetto
+versamento di cui al :ref:`capitolo 7 <informazioni-necessarie-per-leffettuazione-del-pagamento>`, forniti dal pagatore o dal soggetto
 versante, sono inesatti o mancanti.
 
 
