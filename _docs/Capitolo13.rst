@@ -45,7 +45,7 @@ sul territorio nazionale dalla Banca d’Italia non potranno in alcun modo
 eseguire servizi di pagamento che non transitino per il Nodo dei
 Pagamenti-SPC e che abbiano come beneficiario un soggetto pubblico
 obbligato all’adesione allo stesso sistema, ad eccezione dei soli
-servizi di cui alle lettere a), b), c) e d) del capitolo 5.
+servizi di cui alle lettere a), b), c) e d) del :ref:`capitolo 5 <strumenti-di-pagamento>`.
 
 Infine, si evidenzia che, ai sensi dell’articolo 2, punto 39, del
 Decreto legislativo 15 dicembre 2017, n. 218 per il recepimento in
