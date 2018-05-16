@@ -27,8 +27,8 @@ dai prestatori di servizi di pagamento.
 Per consentire all’utilizzatore finale di effettuare il pagamento in
 modalità elettronica, l’Ente Creditore deve rendere disponibile:
 
-a. il codice “Identificativo Univoco di Versamento” (IUV, di cui al §
-   7.1) per i pagamenti eseguiti attraverso il sito web dell’Ente
+a. il codice “Identificativo Univoco di Versamento” (:ref:`IUV, di cui al §
+   7.1 <IUV-e-causale-del-versamento>`) per i pagamenti eseguiti attraverso il sito web dell’Ente
    Creditore;
 
 b. il codice avviso, che contiene il codice IUV, per i pagamenti
@@ -69,8 +69,8 @@ servizi di pagamento che lo esegue, si configura l’uso di un “avviso di
 pagamento informatico” che contiene il codice “\ **Identificativo
 Univoco di Versamento**\ ” (IUV).
 
-Nell’ambito della piattaforma tecnologica di cui al successivo paragrafo
-8.3, l’“avviso di pagamento telematico” sopra indicato si configura
+Nell’ambito della piattaforma tecnologica di cui al :ref:`successivo paragrafo
+8.3, <piattaforma-tecnologica-per-linterconnessione>` l’“avviso di pagamento telematico” sopra indicato si configura
 quale “Richiesta di pagamento telematico”.
 
 8.1.1 Identificazione del soggetto che effettua il versamento
@@ -103,7 +103,8 @@ un avviso di pagamento (analogico e/o digitale) e possono quindi essere
 perfezionati in tempi successivi, avvalendosi dei canali offerti dai PSP
 scelti dal pagatore o dal soggetto versante, attraverso i servizi
 telematici messi a disposizione della propria clientela e integrati con
-la piattaforma tecnologica di cui al successivo paragrafo 8.3.
+la piattaforma tecnologica di cui al :ref:`successivo paragrafo
+8.3. <piattaforma-tecnologica-per-linterconnessione>`
 
 .. _piattaforma-tecnologica-per-linterconnessione:
 
@@ -259,6 +260,8 @@ da nessun PSP aderente al Nodo dei Pagamenti-SPC, la stessa
 amministrazione, solo in tali evenienze, potrà porre in essere delle
 specifiche convenzioni con uno o più PSP, nel rispetto dei principi di
 evidenza pubblica.
+
+.. _giornata-operativa-del-nodo:
 
 8.5 Giornata operativa del Nodo dei Pagamenti-SPC
 -------------------------------------------------
