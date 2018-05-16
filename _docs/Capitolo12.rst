@@ -22,9 +22,9 @@ stesse, dei documenti di carattere tecnico per definire nel dettaglio le
 modalità attraverso le quali viene data pratica attuazione ai pagamenti
 in oggetto, e segnatamente:
 
-*Allegato* *A -* *Specifiche attuative dei codici identificativi di versamento, riversamento e rendicontazione*
+Allegato A - Specifiche attuative dei codici identificativi di versamento, riversamento e rendicontazione
 
-`*Allegato* *B - Specifiche attuative del Nodo dei Pagamenti-SPC* <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/>`_
+`Allegato B - Specifiche attuative del Nodo dei Pagamenti-SPC <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/>`_
 
 L’Agenzia per l’Italia Digitale si occuperà nel tempo di aggiornare le
 presenti Linee guida unitamente ai relativi allegati tecnici.
