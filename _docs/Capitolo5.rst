@@ -32,7 +32,7 @@ obbligati ad aderire al Sistema pagoPA, servizi di pagamento non
 integrati con il Sistema stesso, ad eccezione degli specifici strumenti
 di pagamento che non risultano ancora gestiti in modalità integrata con
 la piattaforma tecnologica messa a disposizione da AgID, di cui al
-paragrafo 8.3.
+:ref:`paragrafo 8.3 <piattaforma-tecnologica-per-linterconnessione>`.
 
 Di conseguenza, ove un soggetto obbligato ad aderire al Sistema abbia
 una specifica esigenza in materia di pagamenti, in via preliminare,
