@@ -12,6 +12,7 @@
 |                                                                                     |
 +-------------------------------------------------------------------------------------+
 
+.. _informazioni-necessarie-per-leffettuazione-del-pagamento:
 
 7. Informazioni necessarie per l’effettuazione del pagamento
 ============================================================
