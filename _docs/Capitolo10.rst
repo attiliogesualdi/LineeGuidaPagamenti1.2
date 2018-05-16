@@ -21,11 +21,11 @@ delle informazioni contabili fornite dal proprio istituto tesoriere, dei
 codici IUV forniti dai prestatori di servizi di pagamento che hanno
 eseguito i singoli versamenti, nonché dei codici IUV presenti sulle
 proprie evidenze informatiche costituite in accordo con quanto descritto
-al capitolo 7.
+al :ref:`capitolo 7 <informazioni-necessarie-per-leffettuazione-del-pagamento>`.
 
 Per le modalità con le quali effettuare la riconciliazione delle
 operazioni si rimanda a quanto indicato negli appositi paragrafi delle
-specifiche attuative (vedi Capitolo 12).
+specifiche attuative (:ref:`vedi Capitolo 12 <specifiche-attuative>`).
 
 Al fine di consentire all’Ente Creditore di eseguire una riconciliazione
 automatica e nel rispetto di quanto altresì indicato nelle Regole
