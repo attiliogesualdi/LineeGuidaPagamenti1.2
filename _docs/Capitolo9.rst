@@ -25,7 +25,7 @@ codici identificativi di versamento, riversamento e rendicontazione*.
 
 Le operazioni disposte attraverso il Sistema pagoPA possono essere
 regolate singolarmente o in maniera cumulativa facendo riferimento alla
-Giornata operativa del Nodo dei Pagamenti-SPC (vedi § 8.5), nel rispetto
+Giornata operativa del Nodo dei Pagamenti-SPC (:ref:`vedi § 8.5 <giornata-operativa-del-nodo>`), nel rispetto
 delle disposizioni di cui al Titolo II del decreto legislativo 27
 gennaio 2010, n. 11, nonché del provvedimento della Banca d’Italia del 5
 luglio 2011 in materia di diritti e obblighi delle parti nei servizi di
@@ -68,7 +68,7 @@ sui conti correnti postali, in quanto somme nella disponibilità
 dell’Ente Creditore, quest’ultimo ha facoltà di richiedere a Poste
 Italiane S.p.a. di eseguire il riversamento sul conto di tesoreria delle
 somme incassate attraverso il Sistema pagoPA nella singola Giornata
-operativa del Nodo dei Pagamenti-SPC (vedi paragrafo 8.5) mediante invio
+operativa del Nodo dei Pagamenti-SPC (:ref:`vedi paragrafo 8.5 <giornata-operativa-del-nodo>`) mediante invio
 di SEPA Credit Transfer, con le modalità indicate nell’\ *Allegato A -
 Specifiche attuative dei codici identificativi di versamento,
 riversamento e rendicontazione*.
