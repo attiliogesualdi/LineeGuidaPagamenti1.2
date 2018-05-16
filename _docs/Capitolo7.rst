@@ -44,6 +44,8 @@ pagamenti attesi - al fine di facilitare la fase di riconciliazione. Gli
 Enti Creditori possono ampliare i dati resi disponibili, in coerenza con
 le proprie soluzioni organizzative.
 
+.. _IUV-e-causale-del-versamento:
+
 7.1 Identificativo univoco di versamento e causale del versamento
 -----------------------------------------------------------------
 
