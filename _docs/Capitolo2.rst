@@ -2,8 +2,8 @@
 
 +-------------------------------------------------------------------------------------+
 |                                                                                     |
-|**Linee guida per l'effettuazione dei pagamenti elettronici a favore                 |
-|delle pubbliche amministrazioni e dei gestori di pubblici servizi**                  |
+|**Linee Guida per l'effettuazione dei Pagamenti Elettronici a favore                 |
+|delle Pubbliche Amministrazioni e dei Gestori di Pubblici Servizi**                  |
 |                                                                                     |
 |*ex articolo 5, comma 4 del decreto legislativo 7 marzo 2005. n. 82 e                |
 |s.m.i. recante "Codice dell'amministrazione digitale"*                               |
