@@ -105,6 +105,8 @@ scelti dal pagatore o dal soggetto versante, attraverso i servizi
 telematici messi a disposizione della propria clientela e integrati con
 la piattaforma tecnologica di cui al successivo paragrafo 8.3.
 
+.. _piattaforma-tecnologica-per-linterconnessione:
+
 8.3 La piattaforma tecnologica per l'interconnessione e l'interoperabilità tra le pubbliche amministrazioni e i prestatori di servizi di pagamento
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
