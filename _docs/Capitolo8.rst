@@ -27,13 +27,12 @@ dai prestatori di servizi di pagamento.
 Per consentire all’utilizzatore finale di effettuare il pagamento in
 modalità elettronica, l’Ente Creditore deve rendere disponibile:
 
-a. il codice “Identificativo Univoco di Versamento” (:ref:`IUV, di cui al §
-   7.1 <IUV-e-causale-del-versamento>`) per i pagamenti eseguiti attraverso il sito web dell’Ente
-   Creditore;
+a) il codice “Identificativo Univoco di Versamento” (:ref:`IUV, di cui al § 7.1 <IUV-e-causale-del-versamento>`) 
+per i pagamenti eseguiti attraverso il sito web dell’Ente Creditore;
 
-b. il codice avviso, che contiene il codice IUV, per i pagamenti
-   eseguiti attraverso i servizi e i canali messi a disposizione dai
-   prestatori di servizi di pagamento.
+b) il codice avviso, che contiene il codice IUV, per i pagamenti
+eseguiti attraverso i servizi e i canali messi a disposizione dai
+prestatori di servizi di pagamento.
 
 L’insieme del codice “\ **Identificativo Univoco di Versamento**\ ”
 (IUV) associato al codice IBAN del conto di accredito e, se del caso, al
