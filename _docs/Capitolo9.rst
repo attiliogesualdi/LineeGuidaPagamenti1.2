@@ -46,18 +46,18 @@ condizione di cui al seguente punto a) e di una delle due condizioni
 elencate ai seguenti punti b) e c):
 
 a) abbia preventivamente comunicato all’Ente Creditore l’errata
-       emissione della Ricevuta telematica avente esito positivo;
+emissione della Ricevuta telematica avente esito positivo;
 
 b) ove il pagamento sia relativo all’erogazione di un servizio da parte
-       dell’Ente Creditore e quest’ultimo non abbia provveduto
-       all’erogazione del servizio stesso verso l’utilizzatore finale;
+dell’Ente Creditore e quest’ultimo non abbia provveduto
+all’erogazione del servizio stesso verso l’utilizzatore finale;
 
 c) ove il pagamento non sia relativo all’erogazione di un servizio da
-       parte dell’Ente Creditore e il prestatore di servizi di pagamento
-       dia prova all’Ente Creditore che l’utilizzatore finale abbia già
-       ricevuto un documento emesso dallo stesso prestatore di servizi
-       di pagamento al fine di annullare l’esito positivo
-       dell’attestazione di pagamento erroneamente rilasciata.
+parte dell’Ente Creditore e il prestatore di servizi di pagamento
+dia prova all’Ente Creditore che l’utilizzatore finale abbia già
+ricevuto un documento emesso dallo stesso prestatore di servizi
+di pagamento al fine di annullare l’esito positivo
+dell’attestazione di pagamento erroneamente rilasciata.
 
 9.1 Pagamenti effettuati tramite bollettino di conto corrente postale
 ---------------------------------------------------------------------
