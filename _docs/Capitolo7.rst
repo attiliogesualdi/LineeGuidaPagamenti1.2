@@ -121,7 +121,7 @@ che effettua il versamento.
 
 .. [2]
    Vedi sito MEF/RGS all’indirizzo:
-   `http://www.rgs.mef.gov.it/VERSIONE-I/attivita_istituzionali/formazione_e_gestione_del_bilancio/bilancio_di_previsione/quadro_di_classificazione_delle_entrate/index.html <http://www.rgs.mef.gov.it/VERSIONE-I/attivita_istituzionali/formazione_e_gestione_del_bilancio/bilancio_di_previsione/quadro_di_classificazione_delle_entrate/index.html>`__
+   `http://www.rgs.mef.gov.it/VERSIONE-I/attivita_istituzionali/formazione_e_gestione_del_bilancio/bilancio_di_previsione/quadro_di_classificazione_delle_entrate/index.html`
 
 .. |image1| image:: media/image1.png
    :width: 5.90551in
