@@ -12,7 +12,7 @@
 |                                                                                     |
 +-------------------------------------------------------------------------------------+
 
-Articolo 5 del decreto legislativo 82/2005
+Articolo 5 del Decreto Legislativo 82/2005
 ==========================================
 
 Per comodità del lettore, si riporta il testo dell’articolo 5
@@ -21,8 +21,7 @@ Legislativo 7 marzo 2005, n. 82, recante “\ *Codice dell'amministrazione
 digitale”,* come modificato dal Decreto legislativo 26 agosto 2016, n.
 179 e dal successivo Decreto legislativo 13 dicembre 2017, n. 217.
 
-Art. 5\ **
-**\ Effettuazione di pagamenti con modalità informatiche
+**Art. 5 - Effettuazione di pagamenti con modalità informatiche**
 
 [1.] I soggetti di cui all'articolo 2, comma 2, sono obbligati ad
 accettare, tramite la piattaforma di cui al comma 2, i pagamenti
