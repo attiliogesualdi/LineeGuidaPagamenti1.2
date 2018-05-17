@@ -26,8 +26,7 @@ ticket per prestazioni, etc.
 
 Le fasi possono essere schematizzate come segue:
 
-a) nascita della necessità del pagamento (da parte dell’ente o del
-   privato);
+a) nascita della necessità del pagamento (da parte dell’ente o del privato);
 
 b) generazione delle informazioni necessarie per dar corso al pagamento;
 
@@ -38,7 +37,7 @@ d) regolamento e riversamento degli importi;
 e) riconciliazione del pagamento;
 
 f) emissione della quietanza da parte dell'Ente Creditore ed eventuale
-   erogazione del servizio.
+erogazione del servizio.
 
 Tenuto presente che le fasi sopra riportate possono avere un ordine
 diverso da quello su indicato e che tale ordine può variare a seconda
