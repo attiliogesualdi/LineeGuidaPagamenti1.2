@@ -56,8 +56,8 @@ Creditore, ecc.
 8.1 Pagamenti dal sito dell’Ente Creditore
 ------------------------------------------
 
-Sono i pagamenti, effettuati dall’utilizzatore finale **attraverso i
-siti web degli Enti Creditori**, integrati in un procedimento
+Sono i pagamenti, effettuati dall’utilizzatore finale 
+**attraverso i siti web degli Enti Creditori**, integrati in un procedimento
 amministrativo che prevede la de-materializzazione dell’attestazione del
 pagamento.
 
@@ -65,8 +65,7 @@ In tale processo, che presuppone il colloquio tra l’utilizzatore finale
 che richiede di effettuare un pagamento - e che a tale scopo utilizza le
 procedure messe a disposizione dall’Ente Creditore - e il prestatore di
 servizi di pagamento che lo esegue, si configura l’uso di un “avviso di
-pagamento informatico” che contiene il codice “\ **Identificativo
-Univoco di Versamento**\ ” (IUV).
+pagamento informatico” che contiene il codice “\ **Identificativo Univoco di Versamento**\ ” (IUV).
 
 Nell’ambito della piattaforma tecnologica di cui al :ref:`successivo paragrafo
 8.3, <piattaforma-tecnologica-per-linterconnessione>` l’“avviso di pagamento telematico” sopra indicato si configura
@@ -75,8 +74,8 @@ quale “Richiesta di pagamento telematico”.
 8.1.1 Identificazione del soggetto che effettua il versamento
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Le procedure di pagamento messe in atto dalle **pubbliche
-amministrazioni** possono richiedere, quando previsto dalle stesse,
+Le procedure di pagamento messe in atto dalle **pubbliche amministrazioni** 
+possono richiedere, quando previsto dalle stesse,
 l’identificazione informatica del soggetto che effettua il versamento
 attraverso gli strumenti previsti dall’articolo 64 e 64-bis del CAD
 (Sistema pubblico per la gestione delle identità digitali) ovvero con
