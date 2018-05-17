@@ -21,22 +21,22 @@ Al fine di avviare il processo di pagamento, gli Enti Creditori mettono
 a disposizione degli utilizzatori finali e dei prestatori di servizi di
 pagamento, le seguenti **informazioni minime**:
 
-a) denominazione dell’Ente Creditore;
+a\) denominazione dell’Ente Creditore;
 
-b) identificativo dell’obbligato (il pagatore);
+b\) identificativo dell’obbligato (il pagatore);
 
-c) importo del pagamento dovuto;
+c\) importo del pagamento dovuto;
 
-d) identificativo univoco di versamento e causale del versamento;
+d\) identificativo univoco di versamento e causale del versamento;
 
-e) identificativo del conto di pagamento sul quale versare le somme
+e\) identificativo del conto di pagamento sul quale versare le somme
 dovute (IBAN del conto corrente bancario);
 
-f) identificativo del conto di pagamento postale sul quale versare le
+f\) identificativo del conto di pagamento postale sul quale versare le
 somme dovute (IBAN del conto corrente postale, se nella
 disponibilità dell’Ente Creditore);
 
-g) scadenza (se prevista).
+g\) scadenza (se prevista).
 
 Nel momento in cui l’Ente Creditore crea la posizione debitoria deve
 memorizzare in un apposito archivio le informazioni minime richieste per
