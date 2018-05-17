@@ -30,11 +30,11 @@ c) importo del pagamento dovuto;
 d) identificativo univoco di versamento e causale del versamento;
 
 e) identificativo del conto di pagamento sul quale versare le somme
-       dovute (IBAN del conto corrente bancario);
+dovute (IBAN del conto corrente bancario);
 
 f) identificativo del conto di pagamento postale sul quale versare le
-       somme dovute (IBAN del conto corrente postale, se nella
-       disponibilità dell’Ente Creditore);
+somme dovute (IBAN del conto corrente postale, se nella
+disponibilità dell’Ente Creditore);
 
 g) scadenza (se prevista).
 
