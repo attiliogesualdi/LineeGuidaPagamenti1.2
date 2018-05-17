@@ -74,20 +74,20 @@ altri soggetti tenuti per legge all’adesione, al quale gli Enti
 Creditori possono affiancare esclusivamente i seguenti metodi di
 pagamento:
 
-a. per cassa, presso l’ente e/o il soggetto che per tale ente svolge il
-       servizio di tesoreria o cassa;
+a) per cassa, presso l’ente e/o il soggetto che per tale ente svolge il
+servizio di tesoreria o cassa;
 
-b. "Delega unica F24" (c.d. modello F24) fino alla sua integrazione con
-       il Sistema pagoPA;
+b) "Delega unica F24" (c.d. modello F24) fino alla sua integrazione con
+il Sistema pagoPA;
 
-c. Sepa Direct Debit (SDD) fino alla sua integrazione con il Sistema
-       pagoPA;
+c) Sepa Direct Debit (SDD) fino alla sua integrazione con il Sistema
+pagoPA;
 
-d. eventuali altri servizi di pagamento non ancora integrati con il
-       Sistema pagoPA e che non risultino sostituibili con quelli
-       erogati tramite pagoPA poiché una specifica previsione di legge
-       ne impone la messa a disposizione dell’utenza per l’esecuzione
-       del pagamento.
+d) eventuali altri servizi di pagamento non ancora integrati con il
+Sistema pagoPA e che non risultino sostituibili con quelli
+erogati tramite pagoPA poiché una specifica previsione di legge
+ne impone la messa a disposizione dell’utenza per l’esecuzione
+del pagamento.
 
 Per il conseguimento degli obiettivi di razionalizzazione e contenimento
 della spesa pubblica gli Enti Creditori hanno l’obbligo di dismettere
