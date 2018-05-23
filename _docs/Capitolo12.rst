@@ -22,7 +22,7 @@ stesse, dei documenti di carattere tecnico per definire nel dettaglio le
 modalità attraverso le quali viene data pratica attuazione ai pagamenti
 in oggetto, e segnatamente:
 
-`Allegato A - Specifiche attuative dei codici identificativi di versamento, riversamento e rendicontazione <https://pagopa-codici.readthedocs.io/it/latest/>_
+`Allegato A - Specifiche attuative dei codici identificativi di versamento, riversamento e rendicontazione <https://pagopa-codici.readthedocs.io/it/latest/>`_
 
 `Allegato B - Specifiche attuative del Nodo dei Pagamenti-SPC <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/>`_
 
