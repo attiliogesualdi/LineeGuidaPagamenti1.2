@@ -40,16 +40,13 @@ cassa elettronico.
 Il codice da utilizzare per la riconciliazione del pagamento è
 rappresentato dal codice **Identificativo Univoco di Versamento** (IUV)
 e dalla **causale di versamento** che lo contiene, descritti nella
-Sezione I del citato *Allegato A - Specifiche attuative dei codici
-identificativi di versamento, riversamento e rendicontazione*.
+Sezione I del citato `Allegato A - Specifiche attuative dei codici identificativi di versamento, riversamento e rendicontazione <https://pagopa-codici.readthedocs.io/it/latest/>`_.
 
 10.2 Pagamenti effettuati tramite bonifico cumulativo
 -----------------------------------------------------
 
 Per la riconciliazione delle operazioni regolate in modo cumulativo si
-rimanda a quanto indicato nella Sezione II dell’\ *Allegato A -
-Specifiche attuative dei codici identificativi di versamento,
-riversamento e rendicontazione*.
+rimanda a quanto indicato nella Sezione II dell’`Allegato A - Specifiche attuative dei codici identificativi di versamento, riversamento e rendicontazione <https://pagopa-codici.readthedocs.io/it/latest/>`_.
 
 10.3 Attestato di pagamento e rilascio della quietanza
 ------------------------------------------------------
