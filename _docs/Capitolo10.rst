@@ -1,4 +1,5 @@
-﻿|image1|
+﻿
+|AGID_logo_carta_intestata-02.png|
 
 +-------------------------------------------------------------------------------------+
 |                                                                                     |
@@ -99,6 +100,6 @@ rilascio delle quietanze relative ai pagamenti eseguiti.
    seconda della data dell’avvenuta notifica nei confronti
    dell’obbligato al pagamento.
 
-.. |image1| image:: media/image1.png
+.. |AGID_logo_carta_intestata-02.png| image:: media/header.png
    :width: 5.90551in
    :height: 1.30277in
