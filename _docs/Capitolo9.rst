@@ -1,4 +1,5 @@
-﻿|image1|
+﻿
+|AGID_logo_carta_intestata-02.png|
 
 +-------------------------------------------------------------------------------------+
 |                                                                                     |
@@ -80,6 +81,6 @@ la quale, come minimo, dovrà tenere conto della tempistica di legge per
 l’esecuzione della duplice operazione di accredito.
 
 
-.. |image1| image:: media/image1.png
+.. |AGID_logo_carta_intestata-02.png| image:: media/header.png
    :width: 5.90551in
    :height: 1.30277in
