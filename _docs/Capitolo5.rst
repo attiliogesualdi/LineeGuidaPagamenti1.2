@@ -1,5 +1,6 @@
-﻿|image1|
-
+﻿
+|AGID_logo_carta_intestata-02.png|
+   
 +-------------------------------------------------------------------------------------+
 |                                                                                     |
 |**Linee Guida per l'effettuazione dei Pagamenti Elettronici a favore                 |
@@ -105,6 +106,7 @@ comunque gestito dall’Ente Creditore quale singola eccezione, con
 l’auspico che tali eccezioni siano sempre di numero inferiore nel tempo.
 
 
-.. |image1| image:: media/image1.png
+.. |AGID_logo_carta_intestata-02.png| image:: media/header.png
    :width: 5.90551in
    :height: 1.30277in
+   
