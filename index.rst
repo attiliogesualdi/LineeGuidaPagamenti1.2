@@ -1,5 +1,5 @@
-﻿|image1|
-
+﻿
+|AGID_logo_carta_intestata-02.png| 
 
 ####################################################################################################################################
 Linee Guida per l'Effettuazione dei Pagamenti Elettronici a favore delle Pubbliche Amministrazioni e dei Gestori di Pubblici Servizi
@@ -23,6 +23,6 @@ Linee Guida per l'Effettuazione dei Pagamenti Elettronici a favore delle Pubblic
    _docs/Capitolo13.rst
    _docs/Articolo5.rst
 
-.. |image1| image:: _docs/media/image1.png
+.. |AGID_logo_carta_intestata-02.png| image:: _docs/media/image1.png
    :width: 5.90551in
    :height: 1.30277in
