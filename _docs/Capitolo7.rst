@@ -1,4 +1,5 @@
-﻿|image1|
+﻿
+|AGID_logo_carta_intestata-02.png|
 
 +-------------------------------------------------------------------------------------+
 |                                                                                     |
@@ -123,6 +124,6 @@ che effettua il versamento.
    `Vedi sito MEF/RGS <http://www.rgs.mef.gov.it/VERSIONE-I/attivita_istituzionali/formazione_e_gestione_del_bilancio/bilancio_di_previsione/quadro_di_classificazione_delle_entrate/index.html>`_
    
 
-.. |image1| image:: media/image1.png
+.. |AGID_logo_carta_intestata-02.png| image:: media/header.png
    :width: 5.90551in
    :height: 1.30277in
