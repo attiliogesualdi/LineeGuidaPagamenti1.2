@@ -70,9 +70,8 @@ dell’Ente Creditore, quest’ultimo ha facoltà di richiedere a Poste
 Italiane S.p.a. di eseguire il riversamento sul conto di tesoreria delle
 somme incassate attraverso il Sistema pagoPA nella singola Giornata
 operativa del Nodo dei Pagamenti-SPC (:ref:`vedi paragrafo 8.5 <giornata-operativa-del-nodo>`) mediante invio
-di SEPA Credit Transfer, con le modalità indicate nell’\ *Allegato A -
-Specifiche attuative dei codici identificativi di versamento,
-riversamento e rendicontazione*.
+di SEPA Credit Transfer, con le modalità indicate 
+`nell’Allegato A - Specifiche attuative dei codici identificativi di versamento, riversamento e rendicontazione <https://pagopa-codici.readthedocs.io/it/latest/index.html#>`_ 
 
 All’esercizio della facoltà da parte dell’Ente Creditore corrisponde
 l’obbligo di Poste Italiane S.p.a. di darvi immediata esecuzione
