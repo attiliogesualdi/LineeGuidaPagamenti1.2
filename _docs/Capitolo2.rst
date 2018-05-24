@@ -1,4 +1,5 @@
-﻿|image1|
+﻿
+|AGID_logo_carta_intestata-02.png|
 
 +-------------------------------------------------------------------------------------+
 |                                                                                     |
@@ -217,6 +218,6 @@ effettua il pagamento di somme a favore di un Ente Creditore.
    1990 e n. 2605 del 9 maggio 2001
 
 
-.. |image1| image:: media/image1.png
+.. |AGID_logo_carta_intestata-02.png| image:: media/header.png
    :width: 5.90551in
    :height: 1.30277in
